@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA: WIN SPORTS" tvg-logo="" group-title="LATINO",COLOMBIA: WIN SPORTS
+http://oh0tcwxtgp14fva6hrpcdn.3mu.caja.live/live/dash.php?z=111&u=PKiozbCmyo&s=0764162714&id=79918&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="COLOMBIA: WinSports Plus" tvg-logo="" group-title="LATINO",COLOMBIA: WinSports Plus
+http://ch3zvimqjtqfcndsj6mgxt.3mu.caja.live/live/dash.php?z=111&u=PKiozbCmyo&s=0764162714&id=79919&t=live&f=ts
